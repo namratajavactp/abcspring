@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="src" path="config"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/ant-1.6.5.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/ant-antlr-1.6.5.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/ant-junit-1.6.5.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/ant-launcher-1.6.5.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/ant-swing-1.6.5.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/asm.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/checkstyle-all.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/cleanimports.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/concurrent-1.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/hsqldb.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/jaas.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/jacc-1_0-fr.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/javassist.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/jaxen-1.1-beta-7.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/jboss-cache.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/jboss-common.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/jboss-jmx.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/jboss-system.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/jgroups-2.2.8.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/jta.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/lucene-core-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/mysql.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/oscache-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/proxool-0.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/swarmcache-1.0rc2.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/syndiag2.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/versioncheck.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/xerces-2.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/MR.RAHUL/F Drive/hibernate/HibernateLib/xml-apis.jar"/>
+	<classpathentry kind="lib" path="D:/nama-personal-backup-donotdelete/spring/New Spring Demos - Copy/WorkShop/spring/spring2.5.5/spring/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/nama-personal-backup-donotdelete/spring/New Spring Demos - Copy/WorkShop/spring/spring2.5.5/spring/dt.jar"/>
+	<classpathentry kind="lib" path="D:/nama-personal-backup-donotdelete/spring/New Spring Demos - Copy/WorkShop/spring/spring2.5.5/spring/htmlconverter.jar"/>
+	<classpathentry kind="lib" path="D:/nama-personal-backup-donotdelete/spring/New Spring Demos - Copy/WorkShop/spring/spring2.5.5/spring/servlet-api.jar"/>
+	<classpathentry kind="lib" path="D:/nama-personal-backup-donotdelete/spring/New Spring Demos - Copy/WorkShop/spring/spring2.5.5/spring/spring-aop.jar"/>
+	<classpathentry kind="lib" path="D:/nama-personal-backup-donotdelete/spring/New Spring Demos - Copy/WorkShop/spring/spring2.5.5/spring/spring-beans.jar"/>
+	<classpathentry kind="lib" path="D:/nama-personal-backup-donotdelete/spring/New Spring Demos - Copy/WorkShop/spring/spring2.5.5/spring/spring-context.jar"/>
+	<classpathentry kind="lib" path="D:/nama-personal-backup-donotdelete/spring/New Spring Demos - Copy/WorkShop/spring/spring2.5.5/spring/spring-context-support.jar"/>
+	<classpathentry kind="lib" path="D:/nama-personal-backup-donotdelete/spring/New Spring Demos - Copy/WorkShop/spring/spring2.5.5/spring/spring-core.jar"/>
+	<classpathentry kind="lib" path="D:/nama-personal-backup-donotdelete/spring/New Spring Demos - Copy/WorkShop/spring/spring2.5.5/spring/spring-jdbc.jar"/>
+	<classpathentry kind="lib" path="D:/nama-personal-backup-donotdelete/spring/New Spring Demos - Copy/WorkShop/spring/spring2.5.5/spring/spring-jms.jar"/>
+	<classpathentry kind="lib" path="D:/nama-personal-backup-donotdelete/spring/New Spring Demos - Copy/WorkShop/spring/spring2.5.5/spring/spring-orm.jar"/>
+	<classpathentry kind="lib" path="D:/nama-personal-backup-donotdelete/spring/New Spring Demos - Copy/WorkShop/spring/spring2.5.5/spring/spring-test.jar"/>
+	<classpathentry kind="lib" path="D:/nama-personal-backup-donotdelete/spring/New Spring Demos - Copy/WorkShop/spring/spring2.5.5/spring/spring-tx.jar"/>
+	<classpathentry kind="lib" path="D:/nama-personal-backup-donotdelete/spring/New Spring Demos - Copy/WorkShop/spring/spring2.5.5/spring/spring-web.jar"/>
+	<classpathentry kind="lib" path="D:/nama-personal-backup-donotdelete/spring/New Spring Demos - Copy/WorkShop/spring/spring2.5.5/spring/spring-webmvc.jar"/>
+	<classpathentry kind="lib" path="D:/nama-personal-backup-donotdelete/spring/New Spring Demos - Copy/WorkShop/spring/spring2.5.5/spring/spring-webmvc-portlet.jar"/>
+	<classpathentry kind="lib" path="D:/nama-personal-backup-donotdelete/spring/New Spring Demos - Copy/WorkShop/spring/spring2.5.5/spring/spring-webmvc-struts.jar"/>
+	<classpathentry kind="lib" path="D:/nama-personal-backup-donotdelete/spring/New Spring Demos - Copy/WorkShop/spring/spring2.5.5/spring/tools.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

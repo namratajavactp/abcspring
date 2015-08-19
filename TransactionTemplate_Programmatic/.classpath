@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="config"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/WorkShop/spring/spring2.5.5/spring/spring-framework-2.5.5/dist/modules/spring-beans.jar"/>
+	<classpathentry kind="lib" path="C:/WorkShop/spring/spring2.5.5/spring/spring-framework-2.5.5/dist/modules/spring-core.jar"/>
+	<classpathentry kind="lib" path="C:/WorkShop/spring/spring2.5.5/spring/spring-framework-2.5.5/dist/modules/spring-orm.jar"/>
+	<classpathentry kind="lib" path="C:/WorkShop/spring/spring2.5.5/spring_with_dependencies/spring-framework-2.5.5/lib/j2ee/persistence.jar"/>
+	<classpathentry kind="lib" path="C:/WorkShop/spring/spring2.5.5/spring_with_dependencies/spring-framework-2.5.5/lib/hibernate/hibernate-entitymanager.jar"/>
+	<classpathentry kind="lib" path="C:/hibernatedemo/hib3.1/entityManager/hibernate-entitymanager-3.1beta6/lib/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="C:/WorkShop/spring/spring2.5.5/spring_with_dependencies/spring-framework-2.5.5/lib/jakarta-commons/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/WorkShop/spring/spring2.5.5/spring/spring-framework-2.5.5/dist/modules/spring-tx.jar"/>
+	<classpathentry kind="lib" path="lib/jboss-common.jar"/>
+	<classpathentry kind="lib" path="lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/pbclient44.jar"/>
+	<classpathentry kind="lib" path="lib/javassist.jar"/>
+	<classpathentry kind="lib" path="lib/ehcache-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/WorkShop/spring/spring2.5.5/spring_with_dependencies/spring-framework-2.5.5/lib/jakarta-commons/commons-collections.jar"/>
+	<classpathentry kind="lib" path="C:/WorkShop/spring/spring2.5.5/spring_with_dependencies/spring-framework-2.5.5/lib/j2ee/jta.jar"/>
+	<classpathentry kind="lib" path="C:/WorkShop/spring/spring2.5.5/spring_with_dependencies/spring-framework-2.5.5/lib/cglib/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/WorkShop/spring/spring2.5.5/spring/spring-framework-2.5.5/dist/modules/spring-jdbc.jar"/>
+	<classpathentry kind="lib" path="C:/WorkShop/spring/spring2.5.5/spring_with_dependencies/spring-framework-2.5.5/lib/hibernate/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/WorkShop/spring/spring2.5.5/spring_with_dependencies/spring-framework-2.5.5/lib/hibernate/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/WorkShop/spring/spring2.5.5/spring_with_dependencies/spring-framework-2.5.5/lib/hibernate/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/WorkShop/spring/spring2.5.5/spring_with_dependencies/spring-framework-2.5.5/lib/slf4j/slf4j-api-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/WorkShop/spring/spring2.5.5/spring_with_dependencies/spring-framework-2.5.5/lib/slf4j/slf4j-log4j12-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/WorkShop/spring/spring2.5.5/spring_with_dependencies/spring-framework-2.5.5/lib/log4j/log4j-1.2.15.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

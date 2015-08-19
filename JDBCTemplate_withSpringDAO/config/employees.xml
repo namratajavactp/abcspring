@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN"
+"http://www.springframework.org/dtd/spring-beans.dtd">
+
+<beans>
+
+<bean id="employee" class="com.emp.Employee">
+ <property name="firstname" value="amit" />
+ <property name="lastname" value="deshpande" /> 
+ <property name="empid" value="1213" />
+</bean>
+
+<bean id="datasource" class="org.springframework.jdbc.datasource.DriverManagerDataSource" >
+	<property name="driverClassName" value="com.mysql.jdbc.Driver" />
+	<property name="url" value="jdbc:mysql://localhost/HibernateDB" />
+	<property name="username" value="root" />
+	<property name="password" value="namrata" />
+</bean>
+
+
+<bean id="idao" class="com.emp.dao.EmployeeDAO">
+	  <property name="dataSource" ref="datasource" />  
+</bean>
+
+</beans>
